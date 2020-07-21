@@ -3,9 +3,9 @@
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
 Get Up : 7:30 a.m.
-Toefl Vocabulary ： F section
+Toefl Vocabulary ： G section
 #### Secondary:
-Toefl Vocabulary ： F section
+Toefl Vocabulary ： G section
 ## Afternoon - Dinner (2:00 pm - 5:00 pm)
 #### Primary：
 Toefl Lisening ： 1 test
