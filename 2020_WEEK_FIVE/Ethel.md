@@ -1,4 +1,28 @@
 # **Supervisor : Jacky**
+
+# D6 - 7.25
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+- Get Up : 7:30 a.m.
+- Vocabulary ： 100 words
+- competition
+#### Secondary:
+- Vocabulary ： 100 words
+
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+- 要整理出来一个点子
+#### Secondary:
+- 如果没有成形的点子，得有个思路出来
+
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+- Sleep : 11:00 p.m.
+- 看看论文，巩固一下点子的立场
+#### Secondary:
+- 跟着白天的思路整理
+
+
 # D5 - 7.24
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
