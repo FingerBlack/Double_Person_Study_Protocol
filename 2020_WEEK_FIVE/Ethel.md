@@ -1,4 +1,26 @@
 # **Supervisor : Jacky**
+# D5 - 7.24
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+- Get Up : 7:30 a.m.
+- Vocabulary ： 100 words
+- regular conference
+#### Secondary:
+- regular conference
+
+## Afternoon - Dinner (4:00 pm - 6:00 pm)
+#### Primary：
+- Paper ：Read && Organize
+- regular conference
+#### Secondary:
+- Paper : Read
+
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+- Sleep : 12:00 p.m.
+- Paper : Organize && Decision
+#### Secondary:
+- Paper : Organize
 
 # D4 - 7.23
 ## Morning - Noon(8:00 am - 11:00 am)
