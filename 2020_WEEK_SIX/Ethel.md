@@ -1,5 +1,28 @@
 # **Supervisor : Jacky**
 
+# D3 - 7.29
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+- Get Up : 7:30 a.m.
+- Vocabulary ： 100 words
+- competition 
+#### Secondary:
+- Vocabulary ： 100 words
+
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+- competition
+- paper
+#### Secondary:
+- paper
+
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+- paper
+- rope skipping * 500
+#### Secondary:
+- rope skipping * 300
+
 # D2 - 7.28
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
