@@ -1,5 +1,27 @@
 # **Supervisor : Jacky**
 
+# D4 - 7.30
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+- Get Up : 7:30 a.m.
+- Vocabulary ： 100 words
+- regular conference
+#### Secondary:
+- regular conference
+
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+- competition
+#### Secondary:
+- paper
+
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+- conpetition
+- 比赛小组开会
+#### Secondary:
+- 比赛小组开会
+
 # D3 - 7.29
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
