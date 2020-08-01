@@ -1,5 +1,5 @@
 # Supervisor : Ethel
-## D6 - 7.31
+## D6 - 8.1
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
 Get Up : 7:30 a.m.
