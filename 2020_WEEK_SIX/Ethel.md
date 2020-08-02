@@ -11,17 +11,16 @@
 
 ## Afternoon - Dinner (2:00 pm - 5:00 pm)
 #### Primary：
-- competition
-- paper
+- paper (1/3)
 #### Secondary:
-- paper
+- paper (1/3) --- introduction && 文献汇总
 
 ## Night - Bedtime (7:00 pm - 10:00 pm)
 #### Primary：
-- 开会
-- paper
+- paper（1/3）--- 剩余部分
+- 最近看到的解决问题的办法理一理
 #### Secondary:
-- 开会
+- paper（1/3）--- 剩余部分
 
 # D6 - 8.1
 ## Morning - Noon(8:00 am - 11:00 am)
