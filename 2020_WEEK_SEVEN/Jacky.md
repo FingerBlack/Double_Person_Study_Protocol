@@ -6,7 +6,7 @@
 
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening Rush exersice
 
 #### Secondary:
 
@@ -14,7 +14,7 @@ Toefl Lisening Push exersice
 
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening Rush exersice
 
 #### Secondary:
 
@@ -22,7 +22,7 @@ Toefl Lisening Push exersice
 
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening rush exersice
 
 #### Secondary:
 
@@ -31,20 +31,20 @@ Toefl Lisening Push exersice
 ## Morning - Noon(8:00 am - 11:00 am)
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening rush exersice
 
 #### Secondary:
 
 ## Afternoon - Dinner (2:00 pm - 5:00 pm)
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening rush exersice
 
 #### Secondary:
 
 ## Night - Bedtime (7:00 pm - 10:00 pm)
 #### Primary：
 
-Toefl Lisening Push exersice
+Toefl Lisening rush exersice
 
 #### Secondary:
