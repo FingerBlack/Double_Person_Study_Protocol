@@ -1,0 +1,87 @@
+# Supervisor : Ethel
+## D6 - 7.25
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+Get Up : 7:30 a.m.
+Toefl Vocabulary ：  section
+#### Secondary:
+Lab
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+Toefl Lisening ： 1 test
+#### Secondary:
+Toefl Lisening ： 3 section
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+Toefl Reading ： 1 test
+#### Secondary:
+Toefl Reading ： 1 section
+## D4 - 7.23
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+Get Up : 7:30 a.m.
+Toefl Vocabulary ： I section
+#### Secondary:
+Lab
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+Toefl Lisening ： 1 test
+#### Secondary:
+Toefl Lisening ： 3 section
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+Toefl Reading ： 1 test
+#### Secondary:
+Toefl Reading ： 1 section
+## D3 - 7.22
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+Get Up : 7:30 a.m.
+Toefl Vocabulary ： H-I section
+Lab
+#### Secondary:
+Lab
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+Toefl Lisening ： 1 test
+#### Secondary:
+Toefl Lisening ： 3 section
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+Toefl Reading ： 1 test
+#### Secondary:
+Toefl Reading ： 1 section
+## D2 - 7.21
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+Get Up : 7:30 a.m.
+Toefl Vocabulary ： G section
+#### Secondary:
+Toefl Vocabulary ： G section
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+Toefl Lisening ： 1 test
+#### Secondary:
+Toefl Lisening ： 3 section
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+Toefl Reading ： 1 test
+#### Secondary:
+Toefl Reading ： 1 section
+## D1 - 7.20
+## Morning - Noon(8:00 am - 11:00 am)
+#### Primary：
+Get Up : 7:30 a.m.
+Toefl Vocabulary ： F section
+#### Secondary:
+Toefl Vocabulary ： F section
+## Afternoon - Dinner (2:00 pm - 5:00 pm)
+#### Primary：
+Toefl Lisening ： 1 test
+#### Secondary:
+Toefl Lisening ： 3 section
+## Night - Bedtime (7:00 pm - 10:00 pm)
+#### Primary：
+Toefl Reading ： 1 test
+#### Secondary:
+Toefl Reading ： 1 section
